@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GLuchtenberg/video-robots/issues"
   },
-  "homepage": "https://github.com/GLuchtenberg/video-robots#readme"
+  "homepage": "https://github.com/GLuchtenberg/video-robots#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
